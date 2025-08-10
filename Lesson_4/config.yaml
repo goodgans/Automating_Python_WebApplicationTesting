@@ -1,0 +1,17 @@
+default:
+  address: https://test-stand.gb.ru
+  browser: chrome
+  sleep_time: 4
+  username: "samec24"
+  password: "b6a9c7f893"
+
+title_name: Hello
+description_name: world
+content_name: Hello world!
+
+your_name: Dima
+your_email: tiunov.dima@yandex.ru
+your_content: Hello world!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
